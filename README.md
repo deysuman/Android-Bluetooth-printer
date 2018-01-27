@@ -1,4 +1,4 @@
-# Android-bluetooth-print
+# Android-bluetooth-printer
 
 ## Please pair the bluetooth printer into your Android settings and use the app
 
