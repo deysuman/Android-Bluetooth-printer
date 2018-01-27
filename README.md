@@ -2,9 +2,7 @@
 
 ## Please pair the bluetooth printer into your Android settings and use the app
 
-![screenshot_20161226-231305](https://cloud.githubusercontent.com/assets/7317381/21485102/8ba84c8a-cbc3-11e6-9b1d-ecdb0120a5d2.png)
-
-
+![screenshot_20180127-235453](https://user-images.githubusercontent.com/22560930/35475041-a241707e-03bd-11e8-8cc7-f45710f59942.png)
 
 
 
